@@ -1,6 +1,8 @@
 A simple, menu-driven Graphical User Interface (GUI) for the Nokia 5110 LCD screen, implemented on an STM32F103C8T6 (Blue Pill) microcontroller.
 This project is developed using STM32CubeIDE with HAL libraries and leverages FreeRTOS for task management.
+Watch the demo by clicking the image below:
 
+[![Watch the demo](demo.png)](https://youtube.com/shorts/KY6EVU57eQ0?feature=share)
 
 Overview:
 This project provides a lightweight and responsive GUI on the popular and inexpensive Nokia 5110 display. It's designed to be a starting point for more complex embedded projects requiring user interaction. The interface is navigated using push buttons. The use of FreeRTOS allows for modular and non-blocking operation, ensuring that UI responsiveness, sensor reading, and other tasks run smoothly alongside each other.
