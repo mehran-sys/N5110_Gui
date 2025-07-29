@@ -1,0 +1,3 @@
+../Core/Src/pcd8544_gui.c:3:6:PCD8544_GUI_drawProgressBar	24	static
+../Core/Src/pcd8544_gui.c:8:6:PCD8544_GUI_displayMenuName	16	static
+../Core/Src/pcd8544_gui.c:13:6:PCD8544_GUI_drawSideBar	24	static
